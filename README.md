@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Divine Ezennia 👋
 
-<!--
-**Divine-Ezennia/Divine-Ezennia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | ⚙️ Mechanical Engineering Student | 🌍 Remote Ready
 
-Here are some ideas to get you started:
+I am a quantitatively-driven professional bridging the gap between engineering rigor and human-centric storytelling. With a background in advanced mathematics and a **Google Data Analytics Professional Certificate**, I turn raw data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 The Technical Stack
+- **Languages:** SQL, R
+- **Visualization:** Tableau, ggplot2
+- **Engineering:** AutoCAD, Technical Documentation
+- **Tools:** Excel (Advanced), Git/GitHub
+
+---
+
+### 🚀 Featured Projects
+
+#### 🚲 [Cyclistic Bike-Share Analysis](LINK_LATER)
+Analyzed **1.9M+ rows** of ridership data to design a membership growth strategy. Used **SQL** for data cleaning and **Tableau** to visualize the "Casual vs. Member" behavioral divide.
+
+#### 🛒 [Online Retail: Customer Purchasing Analysis](LINK_LATER)
+Identified key factors influencing spending frequency and unit price elasticity. Developed data-driven strategies using **R and Tableau** to increase repeat purchases and optimize overall sales revenue.
+
+---
+### 🔌 Infrastructure (Remote Ready)
+- **Power:** 24/7 Solar/Inverter Backup
+- **Internet:** High-speed Fiber Optic
+- **Communication:** Slack, Zoom, Microsoft Teams
+
+---
+
+📫 **Let's Connect:** - Email: ezennia.divine.bio@gmail.com
+- [LinkedIn Profile](LINK_LATER)

@@ -16,7 +16,7 @@ I am a quantitatively-driven professional bridging the gap between engineering r
 
 ### 🚀 Featured Projects
 
-#### 🚲 [Cyclistic Bike-Share Analysis](LINK_LATER)
+#### 🚲 [Cyclistic Bike-Share Analysis](https://github.com/Divine-Ezennia/Cyclistic-Bike-Share-Analysis)
 Analyzed **1.9M+ rows** of ridership data to design a membership growth strategy. Used **SQL** for data cleaning and **Tableau** to visualize the "Casual vs. Member" behavioral divide.
 
 #### 🛒 [Online Retail: Customer Purchasing Analysis](LINK_LATER)
@@ -30,5 +30,6 @@ Identified key factors influencing spending frequency and unit price elasticity.
 
 ---
 
-📫 **Let's Connect:** - Email: ezennia.divine.bio@gmail.com
-- [LinkedIn Profile](LINK_LATER)
+📫 **Let's Connect:**  
+- Email: ezennia.divine.bio@gmail.com
+- [LinkedIn Profile](https://www.linkedin.com/in/divine-ezennia)

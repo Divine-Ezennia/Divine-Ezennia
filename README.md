@@ -31,5 +31,4 @@ Identified key factors influencing spending frequency and unit price elasticity.
 ---
 
 📫 **Let's Connect:**  
-- Email: ezennia.divine.bio@gmail.com
-- [LinkedIn Profile](https://www.linkedin.com/in/divine-ezennia)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divine-ezennia) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezennia.divine.bio@gmail.com)

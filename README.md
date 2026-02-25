@@ -19,9 +19,8 @@ I am a quantitatively-driven professional bridging the gap between engineering r
 #### 🚲 [Cyclistic Bike-Share Analysis](https://github.com/Divine-Ezennia/Cyclistic-Bike-Share-Analysis)
 Analyzed **1.9M+ rows** of ridership data to design a membership growth strategy. Used **SQL** for data cleaning and **Tableau** to visualize the "Casual vs. Member" behavioral divide.
 
-#### 🛒 [Online Retail Customer-Purchasing Analysis](https://github.com/Divine-Ezennia/Online-Retail-Behavioral-Analysis)
-* **Status:** Repository Documentation Underway
-Leveraged **R (Tidyverse)** and **Tableau** to perform complex data restructuring on **541k+ rows**, calculating RFM scores to decode global purchasing patterns.   
+#### 🛒 [Online Retail Behavioral Analysis](https://github.com/Divine-Ezennia/Online-Retail-Behavioral-Analysis)
+Engineered an end-to-end retail intelligence system on **541k+ transactions** using R (Tidyverse) and Tableau, implementing RFM segmentation, CLV modeling, and cross-dimensional analytics to decode global purchasing behavior and monetization patterns.   
 
 ---
 
